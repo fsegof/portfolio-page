@@ -1,0 +1,5 @@
+{
+  "webpackPort": 10001,
+  "webAppServerAddress": "http://ew-wp-starter.local/",
+  "themeName": "yllo-theme"
+}
